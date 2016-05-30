@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ITWorx/parse-server"
+    "url": "https://github.com/itworx/parse-server"
   },
   "files": [
     "bin/",
