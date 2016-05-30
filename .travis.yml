@@ -27,4 +27,4 @@ deploy:
     tags: true
     all_branches: true
     condition: "$MONGODB_VERSION = '3.0.8'"
-    repo: ParsePlatform/parse-server
+    repo: ITWorx/parse-server
