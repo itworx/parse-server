@@ -1,7 +1,7 @@
 {
   "name": "parse-server",
   "version": "2.2.10",
-  "description": "An express module providing a Parse-compatible API server",
+  "description": "A fork of an express module providing a Parse-compatible API server",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
